@@ -28,6 +28,6 @@ Heatmap
 
 Zenodo Binder, doi: LINK_TO_BINDER
 
-Github Binder: https://mybinder.org/v2/gh/clogan88/Heatmap.git/master?urlpath=RStudio
+Github Binder: https://mybinder.org/v2/gh/clogan88/Heatmap.git/master?filepath=%3Furlpath%3Drstudio
 
-Github Repository: https://github.com/speeding-up-science-workshops/<REPO_NAME>
+Github Repository: https://github.com/clogan88/Heatmap.git
